@@ -1,8 +1,9 @@
+package com.example.myapp
 import androidx.test.rule.ActivityTestRule;
 import dev.flutter.plugins.integration_test.FlutterTestRunner;
 import org.junit.Rule;
 import org.junit.runner.RunWith;
-import com.example.lab05.MainActivity;
+//import com.example.lab05.MainActivity;
 
 @RunWith(FlutterTestRunner.class)
 public class MainActivityTest {
